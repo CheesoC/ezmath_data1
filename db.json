@@ -867,6 +867,473 @@
           ]
         }
       ]
+    },
+    {
+      "id": "5",
+      "title": "PERCENTAGE CALCULATIONS",
+      "description": "This section covers essential concepts such as finding percentages, calculating percentage increases and decreases, and solving real-world problems involving discounts, growth, and proportions. Practice with engaging exercises to build confidence and precision in percentage calculations.",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Grundlagen der Prozentrechnung",
+          "description": "Einfache Berechnungen mit Prozentsätzen",
+          "difficulty": "Beginner",
+          "tasks": [
+            {
+              "taskId": "5.1.1",
+              "problem": "50% von 100",
+              "solution": "50"
+            },
+            {
+              "taskId": "5.1.2",
+              "problem": "25% von 200",
+              "solution": "50"
+            },
+            {
+              "taskId": "5.1.3",
+              "problem": "10% von 50",
+              "solution": "5"
+            },
+            {
+              "taskId": "5.1.4",
+              "problem": "75% von 80",
+              "solution": "60"
+            },
+            {
+              "taskId": "5.1.5",
+              "problem": "20% von 150",
+              "solution": "30"
+            },
+            {
+              "taskId": "5.1.6",
+              "problem": "40% von 300",
+              "solution": "120"
+            },
+            {
+              "taskId": "5.1.7",
+              "problem": "90% von 60",
+              "solution": "54"
+            },
+            {
+              "taskId": "5.1.8",
+              "problem": "30% von 70",
+              "solution": "21"
+            },
+            {
+              "taskId": "5.1.9",
+              "problem": "15% von 200",
+              "solution": "30"
+            },
+            {
+              "taskId": "5.1.10",
+              "problem": "5% von 400",
+              "solution": "20"
+            },
+            {
+              "taskId": "5.1.11",
+              "problem": "25% von 120",
+              "solution": "30"
+            },
+            {
+              "taskId": "5.1.12",
+              "problem": "60% von 250",
+              "solution": "150"
+            },
+            {
+              "taskId": "5.1.13",
+              "problem": "50% von 180",
+              "solution": "90"
+            },
+            {
+              "taskId": "5.1.14",
+              "problem": "80% von 75",
+              "solution": "60"
+            },
+            {
+              "taskId": "5.1.15",
+              "problem": "10% von 90",
+              "solution": "9"
+            },
+            {
+              "taskId": "5.1.16",
+              "problem": "35% von 200",
+              "solution": "70"
+            },
+            {
+              "taskId": "5.1.17",
+              "problem": "70% von 50",
+              "solution": "35"
+            },
+            {
+              "taskId": "5.1.18",
+              "problem": "100% von 120",
+              "solution": "120"
+            },
+            {
+              "taskId": "5.1.19",
+              "problem": "1% von 300",
+              "solution": "3"
+            },
+            {
+              "taskId": "5.1.20",
+              "problem": "12% von 25",
+              "solution": "3"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "title": "Prozentwert berechnen",
+          "description": "Berechnung des Prozentwerts aus Grundwert und Prozentsatz",
+          "difficulty": "Elementary",
+          "tasks": [
+            { "taskId": "5.2.1", "problem": "30% von 400", "solution": "120" },
+            { "taskId": "5.2.2", "problem": "45% von 300", "solution": "135" },
+            { "taskId": "5.2.3", "problem": "60% von 500", "solution": "300" },
+            { "taskId": "5.2.4", "problem": "75% von 120", "solution": "90" },
+            { "taskId": "5.2.5", "problem": "20% von 600", "solution": "120" },
+            { "taskId": "5.2.6", "problem": "10% von 1000", "solution": "100" },
+            { "taskId": "5.2.7", "problem": "35% von 800", "solution": "280" },
+            { "taskId": "5.2.8", "problem": "50% von 150", "solution": "75" },
+            { "taskId": "5.2.9", "problem": "15% von 240", "solution": "36" },
+            { "taskId": "5.2.10", "problem": "90% von 300", "solution": "270" },
+            { "taskId": "5.2.11", "problem": "25% von 60", "solution": "15" },
+            { "taskId": "5.2.12", "problem": "80% von 400", "solution": "320" },
+            { "taskId": "5.2.13", "problem": "5% von 500", "solution": "25" },
+            { "taskId": "5.2.14", "problem": "2% von 2500", "solution": "50" },
+            { "taskId": "5.2.15", "problem": "70% von 90", "solution": "63" },
+            { "taskId": "5.2.16", "problem": "40% von 180", "solution": "72" },
+            { "taskId": "5.2.17", "problem": "12% von 350", "solution": "42" },
+            { "taskId": "5.2.18", "problem": "6% von 1200", "solution": "72" },
+            { "taskId": "5.2.19", "problem": "85% von 400", "solution": "340" },
+            { "taskId": "5.2.20", "problem": "100% von 500", "solution": "500" }
+          ]
+        },
+        {
+          "level": 3,
+          "title": "Grundwert berechnen",
+          "description": "Berechnung des Grundwerts bei gegebenem Prozentwert und Prozentsatz",
+          "difficulty": "Intermediate",
+          "tasks": [
+            {
+              "taskId": "5.3.1",
+              "problem": "20 sind 10% von?",
+              "solution": "200"
+            },
+            {
+              "taskId": "5.3.2",
+              "problem": "45 sind 15% von?",
+              "solution": "300"
+            },
+            {
+              "taskId": "5.3.3",
+              "problem": "36 sind 20% von?",
+              "solution": "180"
+            },
+            {
+              "taskId": "5.3.4",
+              "problem": "90 sind 25% von?",
+              "solution": "360"
+            },
+            {
+              "taskId": "5.3.5",
+              "problem": "120 sind 40% von?",
+              "solution": "300"
+            },
+            {
+              "taskId": "5.3.6",
+              "problem": "250 sind 50% von?",
+              "solution": "500"
+            },
+            {
+              "taskId": "5.3.7",
+              "problem": "63 sind 70% von?",
+              "solution": "90"
+            },
+            {
+              "taskId": "5.3.8",
+              "problem": "30 sind 25% von?",
+              "solution": "120"
+            },
+            {
+              "taskId": "5.3.9",
+              "problem": "18 sind 9% von?",
+              "solution": "200"
+            },
+            {
+              "taskId": "5.3.10",
+              "problem": "100 sind 20% von?",
+              "solution": "500"
+            },
+            {
+              "taskId": "5.3.11",
+              "problem": "10 sind 2% von?",
+              "solution": "500"
+            },
+            {
+              "taskId": "5.3.12",
+              "problem": "45 sind 15% von?",
+              "solution": "300"
+            },
+            {
+              "taskId": "5.3.13",
+              "problem": "6 sind 3% von?",
+              "solution": "200"
+            },
+            {
+              "taskId": "5.3.14",
+              "problem": "50 sind 25% von?",
+              "solution": "200"
+            },
+            {
+              "taskId": "5.3.15",
+              "problem": "48 sind 60% von?",
+              "solution": "80"
+            },
+            {
+              "taskId": "5.3.16",
+              "problem": "72 sind 80% von?",
+              "solution": "90"
+            },
+            {
+              "taskId": "5.3.17",
+              "problem": "27 sind 30% von?",
+              "solution": "90"
+            },
+            {
+              "taskId": "5.3.18",
+              "problem": "16 sind 8% von?",
+              "solution": "200"
+            },
+            {
+              "taskId": "5.3.19",
+              "problem": "60 sind 75% von?",
+              "solution": "80"
+            },
+            {
+              "taskId": "5.3.20",
+              "problem": "3 sind 1% von?",
+              "solution": "300"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "title": "Prozentsatz berechnen",
+          "description": "Berechnung des Prozentsatzes bei anspruchsvolleren Szenarien",
+          "difficulty": "Advanced",
+          "tasks": [
+            {
+              "taskId": "5.4.1",
+              "problem": "Ein Betrag von 90€ wird auf 120€ erhöht. Wie viel Prozent beträgt die Erhöhung?",
+              "solution": "33.33%"
+            },
+            {
+              "taskId": "5.4.2",
+              "problem": "Ein Artikel kostet 150€ und wird um 30€ reduziert. Wie viel Prozent beträgt der Rabatt?",
+              "solution": "20%"
+            },
+            {
+              "taskId": "5.4.3",
+              "problem": "Ein Konto wächst von 500€ auf 750€. Wie viel Prozent beträgt die Zunahme?",
+              "solution": "50%"
+            },
+            {
+              "taskId": "5.4.4",
+              "problem": "Ein Preis sinkt von 800€ auf 640€. Wie viel Prozent beträgt die Abnahme?",
+              "solution": "20%"
+            },
+            {
+              "taskId": "5.4.5",
+              "problem": "Ein Rabatt von 60€ wird auf einen Artikel von 240€ gegeben. Wie viel Prozent sind das?",
+              "solution": "25%"
+            },
+            {
+              "taskId": "5.4.6",
+              "problem": "Ein Konto wächst von 300€ auf 330€. Wie viel Prozent beträgt die Zunahme?",
+              "solution": "10%"
+            },
+            {
+              "taskId": "5.4.7",
+              "problem": "Ein Preis wird von 450€ auf 360€ reduziert. Wie viel Prozent beträgt die Reduzierung?",
+              "solution": "20%"
+            },
+            {
+              "taskId": "5.4.8",
+              "problem": "Ein Rabatt von 12€ wird auf einen Artikel von 48€ gegeben. Wie viel Prozent beträgt der Rabatt?",
+              "solution": "25%"
+            },
+            {
+              "taskId": "5.4.9",
+              "problem": "Ein Konto sinkt von 720€ auf 648€. Wie viel Prozent beträgt die Abnahme?",
+              "solution": "10%"
+            },
+            {
+              "taskId": "5.4.10",
+              "problem": "Ein Konto wächst von 1.000€ auf 1.500€. Wie viel Prozent beträgt die Zunahme?",
+              "solution": "50%"
+            },
+            {
+              "taskId": "5.4.11",
+              "problem": "Ein Preis steigt von 60€ auf 75€. Wie viel Prozent beträgt die Erhöhung?",
+              "solution": "25%"
+            },
+            {
+              "taskId": "5.4.12",
+              "problem": "Ein Konto sinkt von 200€ auf 160€. Wie viel Prozent beträgt die Abnahme?",
+              "solution": "20%"
+            },
+            {
+              "taskId": "5.4.13",
+              "problem": "Ein Artikel kostet ursprünglich 180€. Nach einer Preissenkung kostet er 144€. Wie viel Prozent beträgt die Senkung?",
+              "solution": "20%"
+            },
+            {
+              "taskId": "5.4.14",
+              "problem": "Ein Rabatt von 15€ wird auf einen Artikel von 75€ gegeben. Wie viel Prozent beträgt der Rabatt?",
+              "solution": "20%"
+            },
+            {
+              "taskId": "5.4.15",
+              "problem": "Ein Konto wächst von 1.500€ auf 1.650€. Wie viel Prozent beträgt die Zunahme?",
+              "solution": "10%"
+            },
+            {
+              "taskId": "5.4.16",
+              "problem": "Ein Preis sinkt von 90€ auf 72€. Wie viel Prozent beträgt die Reduzierung?",
+              "solution": "20%"
+            },
+            {
+              "taskId": "5.4.17",
+              "problem": "Ein Rabatt von 9€ wird auf einen Artikel von 45€ gegeben. Wie viel Prozent sind das?",
+              "solution": "20%"
+            },
+            {
+              "taskId": "5.4.18",
+              "problem": "Ein Preis wird von 500€ auf 400€ gesenkt. Wie viel Prozent beträgt die Reduzierung?",
+              "solution": "20%"
+            },
+            {
+              "taskId": "5.4.19",
+              "problem": "Ein Konto wächst von 750€ auf 825€. Wie viel Prozent beträgt die Zunahme?",
+              "solution": "10%"
+            },
+            {
+              "taskId": "5.4.20",
+              "problem": "Ein Rabatt von 36€ wird auf einen Artikel von 180€ gegeben. Wie viel Prozent beträgt der Rabatt?",
+              "solution": "20%"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "title": "Komplexe Prozentrechnung",
+          "description": "Mehrstufige und anspruchsvolle Prozentrechnungen",
+          "difficulty": "Expert",
+          "tasks": [
+            {
+              "taskId": "5.5.1",
+              "problem": "Ein Preis von 120€ wird um 25% erhöht. Wie hoch ist der neue Preis?",
+              "solution": "150€"
+            },
+            {
+              "taskId": "5.5.2",
+              "problem": "Ein Preis von 200€ wird um 30% reduziert. Wie hoch ist der neue Preis?",
+              "solution": "140€"
+            },
+            {
+              "taskId": "5.5.3",
+              "problem": "Ein Konto wächst von 400€ auf 500€. Wie viel Prozent beträgt die Zunahme?",
+              "solution": "25%"
+            },
+            {
+              "taskId": "5.5.4",
+              "problem": "Ein Konto sinkt von 600€ auf 480€. Wie viel Prozent beträgt die Abnahme?",
+              "solution": "20%"
+            },
+            {
+              "taskId": "5.5.5",
+              "problem": "Was sind 15% von 120, und wie viel bleiben übrig?",
+              "solution": "18, übrig: 102"
+            },
+            {
+              "taskId": "5.5.6",
+              "problem": "Ein Betrag von 1000€ wird in 3 Schritten um je 10% erhöht. Wie hoch ist der Endbetrag?",
+              "solution": "1331€"
+            },
+            {
+              "taskId": "5.5.7",
+              "problem": "Ein Betrag von 800€ wird zweimal um je 20% reduziert. Wie hoch ist der Endbetrag?",
+              "solution": "512€"
+            },
+            {
+              "taskId": "5.5.8",
+              "problem": "Ein Preis von 300€ wird erst um 20% erhöht und dann um 10% reduziert. Wie hoch ist der Endpreis?",
+              "solution": "324€"
+            },
+            {
+              "taskId": "5.5.9",
+              "problem": "Ein Konto wächst von 100€ auf 121€. Wie hoch ist die jährliche Wachstumsrate (über 2 Jahre)?",
+              "solution": "10%"
+            },
+            {
+              "taskId": "5.5.10",
+              "problem": "Ein Rabatt von 15% auf einen Preis von 400€ wird gegeben. Wie viel muss man zahlen?",
+              "solution": "340€"
+            },
+            {
+              "taskId": "5.5.11",
+              "problem": "Ein Preis von 250€ wird um 8% reduziert. Wie hoch ist der neue Preis?",
+              "solution": "230€"
+            },
+            {
+              "taskId": "5.5.12",
+              "problem": "20% eines Betrags von 500€ werden gespendet. Wie viel bleibt?",
+              "solution": "400€"
+            },
+            {
+              "taskId": "5.5.13",
+              "problem": "Ein Betrag von 2000€ wird in zwei Schritten um je 5% reduziert. Wie hoch ist der Endbetrag?",
+              "solution": "1805€"
+            },
+            {
+              "taskId": "5.5.14",
+              "problem": "Ein Konto wächst jährlich um 12%. Wie hoch ist der Betrag nach 3 Jahren bei 1000€ Startwert?",
+              "solution": "1404.93€"
+            },
+            {
+              "taskId": "5.5.15",
+              "problem": "Ein Artikel für 150€ wird um 25% reduziert. Wie hoch ist der neue Preis?",
+              "solution": "112.50€"
+            },
+            {
+              "taskId": "5.5.16",
+              "problem": "Ein Artikel wird um 30% teurer und kostet danach 260€. Wie hoch war der ursprüngliche Preis?",
+              "solution": "200€"
+            },
+            {
+              "taskId": "5.5.17",
+              "problem": "Ein Preis von 120€ wird um 50% erhöht und danach um 50% reduziert. Wie hoch ist der Endpreis?",
+              "solution": "90€"
+            },
+            {
+              "taskId": "5.5.18",
+              "problem": "Ein Konto wächst jährlich um 8%. Wie hoch ist der Betrag nach 5 Jahren bei 500€ Startwert?",
+              "solution": "734.66€"
+            },
+            {
+              "taskId": "5.5.19",
+              "problem": "Ein Rabatt von 18% wird auf einen Preis von 320€ gegeben. Wie viel zahlt man?",
+              "solution": "262.40€"
+            },
+            {
+              "taskId": "5.5.20",
+              "problem": "Ein Preis von 100€ wird um 25% erhöht und danach um 20% reduziert. Wie hoch ist der Endpreis?",
+              "solution": "100€"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
